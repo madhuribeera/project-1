@@ -30,7 +30,7 @@ app.get('/Contactus', function(req, res){
 	res.send("This is about us page.");
 })
 app.get('/help', function(req, res){
-	res.send("This is help page.");
+	res.send("This is help page to clarify our queries.");
 })
 
 
